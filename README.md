@@ -1,10 +1,10 @@
 # greatBay_DB
 
 
-Terminal Application to bid or post items 
+<h2>Terminal Application to bid or post items</h2>
 
 
-Technologies Used 
+<h3>Technologies Used</h3>
 Node 
 Javascript 
 SQL 
